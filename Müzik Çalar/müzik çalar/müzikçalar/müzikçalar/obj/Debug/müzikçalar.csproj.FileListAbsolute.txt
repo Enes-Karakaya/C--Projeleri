@@ -1,0 +1,21 @@
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe.config
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\bin\Debug\müzikçalar.pdb
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csprojAssemblyReference.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.Form1.resources
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.Properties.Resources.resources
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.GenerateResource.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.CoreCompileInputs.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.exe
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.pdb
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe.config
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\bin\Debug\müzikçalar.pdb
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.AssemblyReference.cache
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.Form1.resources
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.Properties.müzikler.resources
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.Properties.Resources.resources
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.GenerateResource.cache
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.CoreCompileInputs.cache
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.exe
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\8. hafta\müzik çalar\müzikçalar\müzikçalar\obj\Debug\müzikçalar.pdb

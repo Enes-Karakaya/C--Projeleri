@@ -1,0 +1,20 @@
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\bin\Debug\Web tarayıcı.exe.config
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\bin\Debug\Web tarayıcı.exe
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\bin\Debug\Web tarayıcı.pdb
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.csprojAssemblyReference.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web_tarayıcı.Form1.resources
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web_tarayıcı.Properties.Resources.resources
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.csproj.GenerateResource.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.csproj.CoreCompileInputs.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.exe
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.pdb
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\bin\Debug\Web tarayıcı.exe.config
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\bin\Debug\Web tarayıcı.exe
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\bin\Debug\Web tarayıcı.pdb
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.csproj.AssemblyReference.cache
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web_tarayıcı.Form1.resources
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web_tarayıcı.Properties.Resources.resources
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.csproj.GenerateResource.cache
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.csproj.CoreCompileInputs.cache
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.exe
+C:\Users\Enes Karakaya\Desktop\Github\Yeni klasör\Y\Yeni klasör\görsel 1-2\görsel 1 akşam\6. hafta\web tarayıcı\Web tarayıcı\Web tarayıcı\obj\Debug\Web tarayıcı.pdb

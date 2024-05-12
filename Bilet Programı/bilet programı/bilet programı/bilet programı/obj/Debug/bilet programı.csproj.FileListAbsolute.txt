@@ -1,0 +1,10 @@
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\bin\Debug\bilet programı.exe.config
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\bin\Debug\bilet programı.exe
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\bin\Debug\bilet programı.pdb
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\obj\Debug\bilet programı.csprojAssemblyReference.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\obj\Debug\bilet_programı.Form1.resources
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\obj\Debug\bilet_programı.Properties.Resources.resources
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\obj\Debug\bilet programı.csproj.GenerateResource.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\obj\Debug\bilet programı.csproj.CoreCompileInputs.cache
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\obj\Debug\bilet programı.exe
+C:\Users\LAB3\Desktop\görsel 1-2\görsel 1 akşam\5. HAFTA 20.03.2024\bilet programı\bilet programı\bilet programı\obj\Debug\bilet programı.pdb
